@@ -14,7 +14,13 @@ Mozilla calls its JS engines something-monkey.
 золото ('zoloto') is the word for gold in Russian.  
 
 There was also a 80s adventure tv show 
-called ['tales of the golden monkey'](en.wikipedia.org/wiki/Tales_of_the_Gold_Monkey)
+called ['tales of the golden monkey'](http://en.wikipedia.org/wiki/Tales_of_the_Gold_Monkey)
  that I fondly remember watching.
+
+## Documentation
+
+Since this is a learning excercise, the docs are important, both stand-alone
+and in code comments. The [docs folder](docs/) has standalone docs, mostly written in a
+narrative style.
 
 
